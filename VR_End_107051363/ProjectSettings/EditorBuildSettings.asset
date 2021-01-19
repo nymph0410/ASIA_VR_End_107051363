@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/\u7C43\u7403\u5834.unity"
     guid: 8ef1554cddc2cac4c8e67319b3c02d05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: a355872723ad85e4b862b07425f2f3dc,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5b4333334b79edc4f9b76f3ef4f39cf4,
+      type: 2}
